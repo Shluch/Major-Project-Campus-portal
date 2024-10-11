@@ -32,7 +32,7 @@ npm install express
 # Setup Project
 ## 1. Clone/Download Repository
 ```
-git clone https://github.com/rajatgaikwad10/T-P.git
+git clone https://github.com/Shluch/Major-Project-Campus-porta
 ```
 ## 2. Change Directory
 ```
